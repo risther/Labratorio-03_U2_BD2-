@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{OBJETIVOS}{}% 1
+\BOOKMARK [1][-]{section.2}{REQUERIMIENTOS}{}% 2
+\BOOKMARK [1][-]{section.3}{CONSIDERACIONES INICIALES}{}% 3
+\BOOKMARK [1][-]{section.4}{DESARROLLO}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Creaci\363n del proyecto de prueba de .NET Core}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Agregar Selenium al proyecto de prueba}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Escribir una prueba de IU usando Selenium}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Ejecutar la prueba de IU}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{CONCLUSIONES}{}% 9
+\BOOKMARK [1][-]{section.6}{RECOMENDACIONES}{}% 10
+\BOOKMARK [1][-]{section.7}{WEBGRAFIA}{}% 11

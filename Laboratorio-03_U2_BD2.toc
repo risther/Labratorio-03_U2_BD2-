@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}OBJETIVOS}{2}{section.1}%
+\contentsline {section}{\numberline {2}REQUERIMIENTOS}{2}{section.2}%
+\contentsline {section}{\numberline {3}CONSIDERACIONES INICIALES}{2}{section.3}%
+\contentsline {section}{\numberline {4}DESARROLLO}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Creación del proyecto de prueba de .NET Core}{3}{subsection.4.1}%
+\contentsline {section}{\numberline {5}CONCLUSIONES}{9}{section.5}%
